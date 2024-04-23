@@ -1,0 +1,31 @@
+"team_id","city","state","owner","head_coach","general_manager"
+"1610612737","Atlanta","Atlanta","Tony Ressler","Quin Snyder","Travis Schlenk"
+"1610612738","Boston","Massachusetts",NULL,NULL,NULL
+"1610612739","Cleveland","Ohio",NULL,NULL,NULL
+"1610612740","New Orleans","Louisiana",NULL,NULL,NULL
+"1610612741","Chicago","Illinois","Michael Reinsdorf","Billy Donovan","Arturas Karnisovas"
+"1610612742","Dallas","Texas","Mark Cuban","Jason Kidd","Nico Harrison"
+"1610612743","Denver","Colorado","Stan Kroenke","Michael Malone","Calvin Booth"
+"1610612744","Golden State","California","Joe Lacob","Steve Kerr","Bob Myers"
+"1610612745","Houston","Texas","Tilman Fertitta","Ime Udoka","Rafael Stone"
+"1610612746","Los Angeles","California","Steve Ballmer","Tyronn Lue","Michael Winger"
+"1610612747","Los Angeles","California","Jeanie Buss","Darvin Ham","Rob Pelinka"
+"1610612748","Miami","Florida","Micky Arison","Erik Spoelstra","Pat Riley"
+"1610612749","Milwaukee","Wisconsin","Wesley Edens & Marc Lasry","Adrian Griffin","Jon Horst"
+"1610612750","Minnesota","Minnesota","Glen Taylor","Chris Finch","Tim Connelly"
+"1610612751","Brooklyn","New York","Joe Tsai","Jacque Vaughn","Sean Marks"
+"1610612752","New York","New York",NULL,NULL,NULL
+"1610612753","Orlando","Florida",NULL,NULL,NULL
+"1610612754","Indiana","Indiana","Herb Simon","Rick Carlisle","Kevin Pritchard"
+"1610612755","Philadelphia","Pennsylvania","Joshua Harris & David Blitzer","Nick Nurse","Elton Brand"
+"1610612756","Phoenix","Arizona","Mat Ishbia","Frank Vogel","James Jones"
+"1610612757","Portland","Oregon","Jody Allen","Chauncey Billups","Joe Cronin"
+"1610612758","Sacramento","California","Vivek Ranadive","Mike Brown","Monte McNair"
+"1610612759","San Antonio","Texas","Peter Holt","Gregg Popovich","Brian Wright"
+"1610612760","Oklahoma City","Oklahoma","Clay Bennett","Mark Daigneault","Sam Presti"
+"1610612761","Toronto","Ontario","Lawrence Tanenbaum",NULL,"Masai Ujiri"
+"1610612762","Utah","Utah","Ryan Smith","Will Hardy","Justin Zanik"
+"1610612763","Memphis","Tennessee","Robert Pera","Taylor Jenkins","Zach Kleiman"
+"1610612764","Washington","District of Columbia","Ted Leonsis","Wes Unseld","Tommy Sheppard"
+"1610612765","Detroit","Michigan","Tom Gores","Monty Williams","Ed Stefanski"
+"1610612766","Charlotte","North Carolina","Michael Jordan","Steve Clifford","Mitch Kupchak"
